@@ -1,0 +1,105 @@
+.parCon .sprite {
+    background-image: url(sprite.png);
+    background-repeat: no-repeat;
+    display: inline-block;
+    width: 36px;
+    height: 36px;
+    vertical-align: middle;
+    margin-right: 5px;
+}
+
+.sprite-OPPO {
+    width: 36px;
+    height: 36px;
+    background-position: -5px -5px;
+}
+
+a:hover .sprite-OPPO {
+    width: 36px;
+    height: 36px;
+    background-position: -51px -5px;
+}
+
+.sprite-VIVO {
+    width: 36px;
+    height: 36px;
+    background-position: -97px -5px;
+}
+
+a:hover .sprite-VIVO {
+    width: 36px;
+    height: 36px;
+    background-position: -143px -5px;
+}
+
+.sprite-apple {
+    width: 36px;
+    height: 36px;
+    background-position: -189px -5px;
+}
+
+a:hover .sprite-apple {
+    width: 36px;
+    height: 36px;
+    background-position: -235px -5px;
+}
+
+.sprite-baidu {
+    width: 36px;
+    height: 36px;
+    background-position: -281px -5px;
+}
+
+a:hover .sprite-baidu {
+    width: 36px;
+    height: 36px;
+    background-position: -327px -5px;
+}
+
+.sprite-huawei {
+    width: 36px;
+    height: 36px;
+    background-position: -373px -5px;
+}
+
+a:hover .sprite-huawei {
+    width: 36px;
+    height: 36px;
+    background-position: -419px -5px;
+}
+
+.sprite-wandoujia {
+    width: 36px;
+    height: 36px;
+    background-position: -465px -5px;
+}
+
+a:hover .sprite-wandoujia {
+    width: 36px;
+    height: 36px;
+    background-position: -511px -5px;
+}
+
+.sprite-xiaomi {
+    width: 36px;
+    height: 36px;
+    background-position: -557px -5px;
+}
+
+a:hover .sprite-xiaomi {
+    width: 36px;
+    height: 36px;
+    background-position: -603px -5px;
+}
+
+.sprite-yingyongbao {
+    width: 36px;
+    height: 36px;
+    background-position: -649px -5px;
+}
+
+a:hover .sprite-yingyongbao {
+    width: 36px;
+    height: 36px;
+    background-position: -695px -5px;
+}
